@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/01-color-switcher.js"],"names":["console","log"],"mappings":";AACAA,QAAQC,IAAI","file":"01-color-switcher.dabac297.js","sourceRoot":"../src","sourcesContent":["// import '../sass/common.css';\nconsole.log('color switcher');\n"]}
